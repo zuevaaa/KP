@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace плеер
+namespace player
 {
     public partial class Form1 : Form
     {
@@ -16,14 +16,12 @@ namespace плеер
         {
             InitializeComponent();
         }
-           
-        string[] files, path;
+
+        string[] files, paths;
 
         private void button1_Click(object sender, EventArgs e)
 
         {
-
-            
 
             if (openFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
 
@@ -31,7 +29,7 @@ namespace плеер
 
                 files = openFileDialog1.SafeFileNames;
 
-                path = openFileDialog1.FileNames;
+                paths = openFileDialog1.FileNames;
 
                 for (int i = 0; i < files.Length; i++)
 
@@ -43,21 +41,11 @@ namespace плеер
 
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
-        {
-
-        }
-
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
 
         {
 
-            axWindowsMediaPlayer1.URL = path[listBox1.SelectedIndex];
+            axWindowsMediaPlayer1.URL = paths[listBox1.SelectedIndex];
 
         }
     }

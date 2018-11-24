@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace плеер.Properties
+namespace player.Properties
 {
 
 

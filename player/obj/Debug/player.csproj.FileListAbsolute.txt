@@ -1,0 +1,15 @@
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\bin\Debug\player.exe.config
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\bin\Debug\player.exe
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\bin\Debug\player.pdb
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\bin\Debug\Interop.WMPLib.dll
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\bin\Debug\AxInterop.WMPLib.dll
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.csprojAssemblyReference.cache
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\Interop.WMPLib.dll
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\AxInterop.WMPLib.dll
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.csproj.ResolveComReference.cache
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.Form1.resources
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.Properties.Resources.resources
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.csproj.GenerateResource.cache
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.exe
+E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.pdb

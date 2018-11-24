@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{981AD6EE-3F86-47AD-BCD1-A9057476612F}</ProjectGuid>
+    <ProjectGuid>{41753096-6684-4A54-977D-2D36806DB321}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>плеер</RootNamespace>
-    <AssemblyName>плеер</AssemblyName>
+    <RootNamespace>player</RootNamespace>
+    <AssemblyName>player</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
