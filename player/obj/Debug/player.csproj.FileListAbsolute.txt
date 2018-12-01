@@ -13,3 +13,18 @@ E:\УНИВЕР\Инженерия программного обеспечени
 E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
 E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.exe
 E:\УНИВЕР\Инженерия программного обеспечения\player\player\obj\Debug\player.pdb
+C:\Users\student_kash\Desktop\player\player\bin\Debug\player.exe.config
+C:\Users\student_kash\Desktop\player\player\bin\Debug\player.exe
+C:\Users\student_kash\Desktop\player\player\bin\Debug\player.pdb
+C:\Users\student_kash\Desktop\player\player\bin\Debug\Interop.WMPLib.dll
+C:\Users\student_kash\Desktop\player\player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.csprojAssemblyReference.cache
+C:\Users\student_kash\Desktop\player\player\obj\Debug\Interop.WMPLib.dll
+C:\Users\student_kash\Desktop\player\player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.csproj.ResolveComReference.cache
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.Form1.resources
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.Properties.Resources.resources
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.csproj.GenerateResource.cache
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.exe
+C:\Users\student_kash\Desktop\player\player\obj\Debug\player.pdb
