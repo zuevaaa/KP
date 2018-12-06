@@ -9,17 +9,24 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace player
-{
+{ /// <summary>
+/// создание формы
+/// </summary>
     public partial class Form1 : Form
     {
-        public Form1()
+        public Form1() 
         {
             InitializeComponent();
         }
 
         string[] files, paths;
 
+        /// <summary>
+        ///    обрабочик кнопки выбора файла
+        /// </summary>
+      
         private void button1_Click(object sender, EventArgs e)
+          
 
         {
 
@@ -40,8 +47,12 @@ namespace player
             }
 
         }
-
+        /// <summary>
+        /// обработчик вывода списка воспроизведения
+        /// </summary>
+       
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        
 
         {
 
