@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "player", "player\player.csproj", "{41753096-6684-4A54-977D-2D36806DB321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{878462FC-1D55-40BE-807D-64C7F30D5E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41753096-6684-4A54-977D-2D36806DB321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41753096-6684-4A54-977D-2D36806DB321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41753096-6684-4A54-977D-2D36806DB321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41753096-6684-4A54-977D-2D36806DB321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878462FC-1D55-40BE-807D-64C7F30D5E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878462FC-1D55-40BE-807D-64C7F30D5E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878462FC-1D55-40BE-807D-64C7F30D5E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878462FC-1D55-40BE-807D-64C7F30D5E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA48505C-CEF6-4B6E-B7C9-D91DE113DD33}
+	EndGlobalSection
+EndGlobal
